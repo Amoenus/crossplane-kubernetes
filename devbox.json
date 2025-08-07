@@ -8,7 +8,7 @@
     "kubernetes-helm@3.18.4",
     "watchexec@2.3.2",
     "kyverno-chainsaw@0.2.12",
-    "just@1.42.3",
+    "just@1.42.4",
     "jq@1.8.1",
     "gum@0.16.2",
     "yq-go@4.47.1",
@@ -19,8 +19,8 @@
     "teller@2.0.7",
     "azure-cli@2.75.0",
     "awscli2@2.28.1",
-    "nushell@0.105.1",
-    "git@2.50.0"
+    "nushell@0.106.1",
+    "git@2.50.1"
   ],
   "shell": {
     "init_hook": [
